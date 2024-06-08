@@ -1,0 +1,70 @@
+@import "../../vars.css";
+
+.container {
+    color: var(--color-text);
+    margin-top: 79px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.title {
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+}
+
+.eduContent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* justify-content: space-around; */
+    align-items: center;
+}
+
+.text {
+    text-align: center;
+}
+
+.text p {
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.courses {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+
+    background: #19376d;
+    background: linear-gradient(#19376d 0%, rgba(25, 55, 109, 0) 100%);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.grad {
+    padding-bottom: 20px;
+}
+
+.courseList li {
+    list-style: none;
+}
+
+.courseName {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+@media screen and (max-width: 830px) {
+    .eduContent {
+        flex-direction: column;
+    }
+
+    .eduContent img {
+        display: none;
+    }
+}

@@ -1,0 +1,44 @@
+[
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    
+    {
+      "title": "AWS",
+      "imageSrc": "skills/aws.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    
+    {
+      "title": "NodeJS",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "PostgreSQL",
+      "imageSrc": "skills/postgreSQL.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongoDB.png"
+    },
+    {
+      "title": "Ruby",
+      "imageSrc": "skills/ruby.png"
+    }
+  ]

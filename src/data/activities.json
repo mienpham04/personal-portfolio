@@ -1,0 +1,27 @@
+[
+    {
+        "image": "clubs/gwc.png",
+        "name": "Girls Who Code",
+        "role": "Volunteer | Jan 2024 - Present",
+        "description": "Description goes here"
+    },
+    {
+        "image": "clubs/acm.png",
+        "name": "Associate Computer of Machinery",
+        "role": "Member | Sep 2022 - Present",
+        "description": "Description goes here"
+    },
+    {
+        "image": "clubs/badminton.png",
+        "name": "Badminton Club",
+        "role": "Treasurer | Sep 2023 - Present",
+        "description": "Description goes here"
+    },
+    {
+        "image": "clubs/vsa.png",
+        "name": "Vietnamese Student Association",
+        "role": "Member | Sep 2022 - Present",
+        "description": "Description goes here"
+    }
+]
+

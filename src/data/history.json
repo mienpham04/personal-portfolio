@@ -1,0 +1,32 @@
+[
+    {
+      "role": "Software Engineer Intern",
+      "organisation": "Rakuna",
+      "startDate": "May, 2024",
+      "endDate": "Present",
+      "experiences": ["Complete a 3-week full-stack development training program by building over 5 Ruby on Rails mini projects", "Collaborate with testers and other developers to optimize the company legacy code by utilizing React/Redux for frontend, Ruby/Rails for backend, other testing and cloud services tools like RSpec and Docker", "Refactor RSpec for 100% coverage on critical controllers, models, and services during the developing seasons"],
+      "imageSrc": "history/rakuna.png"
+    },
+
+    {
+      "role": "Teaching Assistant",
+      "organisation": "Gettysburg College",
+      "startDate": "Sept, 2023",
+      "endDate": "Present",
+      "experiences": ["Worked closely with the Professor and provided nearly 40 students with personalized code-review sessions in Python.", 
+      "Hold weekly office hours to provide individual help to students with their difficulties in understanding Python coding lessons and exercises. Facilitated further understanding of students in intermediate Python concepts.",
+    "Attended every class session to assist the Professor with taking attendance and help students debug their code when they get stuck. Hold review sessions to make sure that students can perform well on every exam."],
+      "imageSrc": "history/gettysburg.png"
+    },
+
+    {
+      "role": "Software Engineer Intern",
+      "organisation": "Sunny Education Center",
+      "startDate": "May, 2023",
+      "endDate": "August, 2023",
+      "experiences": ["Led the front-end team of 5 to build a student tracking system using Python/Flask. Developed 12 REST APIs with 100% test coverage and token authentication, logging over 1,000 monthly active users.", 
+      "Enhanced user interface and experience by integrating JavaScript/React while implementing REST APIs for improved data transition efficiency between students, parents, and teachers.",
+      "Leveraged knowledge of Postman API testing, Web APIs, and REST APIs."],
+      "imageSrc": "history/sunny.jpg"
+    }
+  ]

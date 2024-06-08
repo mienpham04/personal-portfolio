@@ -1,0 +1,19 @@
+[
+    {
+      "title": "ConversaCraft",
+      "imageSrc": "projects/conversacraft.png",
+      "description": "A MERN Stack website which enable user to chat with friends in real-time.",
+      "skills": ["MongoDB", "Express", "React", "Node", "SocketIO"],
+      "demo": "https://conversacraft.onrender.com/",
+      "source": "https://github.com/mienpham04/ConversaCraft"
+    },
+
+    {
+      "title": "Personal Portfolio",
+      "imageSrc": "projects/personal.png",
+      "description": "A personal portfolio website",
+      "skills": ["JavaScript", "React", "HTML", "CSS"],
+      "demo": "https://conversacraft.onrender.com/",
+      "source": "https://github.com/mienpham04/Personal-Website"
+    }
+  ]
